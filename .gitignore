@@ -1,0 +1,4 @@
+xcaddy
+Caddyfile.test
+*.tmp
+versions/caddy-*
